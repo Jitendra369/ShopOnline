@@ -1,0 +1,26 @@
+# Build output
+target/
+build/
+HELP.md
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.sts4-cache/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Not part of the services repo
+/AIChatNotes/
+/ShopOnline/
+/interview/
+/project-plan.md
+/mermaid-diagram.png
